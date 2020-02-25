@@ -1,0 +1,41 @@
+Summarize about yourself
+
+Recent Mulesoft projects - requirements, integration patterns - Talk about the project in details technically
+
+What Version of Mulesoft?
+
+Why do you need Mulesoft API and what is the business necessity to use Mulesoft API
+
+Where do you deploy and what kind of experience do you have on this  (On-Prem/CloudHub)
+
+How do you address Performance issues due to different layers of API (System, Process and Experience API)
+
+Type of Flow Control that we use in Mulesoft? (DB Connector, Object to Json, Object to Byte array, Choice etc.,)
+
+Have you used Scatter Gather. Explain the scenario where it is required
+
+Security front - OAuth approach, OAuth provider ?? what Grand type (access type)
+
+Deployment perspective ??
+
+RAML Specification Creation ??
+
+Scenario question - RAML defined for few API's. 
+
+MUnit
+
+Which version of Mule - 3.8.5 and also any exposure on hybrid model ?
+
+Splitter & Aggregator - Where do we use?
+If we have million records either from one source or multiple sources, how do we do Splitter and Aggregator?
+ 
+Base limit/Throttling in API Manager - 
+ 
+What are the different Transport Barrier - HTTP etc., 
+ 
+Will value will go beyond the HTTP transport barrier  - Flow Variable/Session Variable
+ 
+Question on Choice: Where will the flow works
+ 
+What is the runtime version and studio version that we use?
+
